@@ -1,0 +1,8 @@
+Type of Data 	Description 	Size
+Short Text 	Text or combinations of text and numbers, including numbers that do not require calculating (e.g. phone numbers). 	Up to 255 characters.
+Long Text 	Lengthy text or combinations of text and numbers. 	Up to 63, 999 characters.
+Number 	Numeric data used in mathematical calculations. 	1, 2, 4, or 8 bytes (16 bytes if set to Replication ID).
+Date/Time 	Date and time values for the years 100 through 9999. 	8 bytes
+Currency 	Currency values and numeric data used in mathematical calculations involving data with one to four decimal places. 	8 bytes
+AutoNumber 	A unique sequential (incremented by 1) number or random number assigned by Microsoft Access whenever a new record is added to a table. 	4 bytes (16 bytes if set to Replication ID).
+Yes/No 	Yes and No values and fields that contain only one of two values (Yes/No, True/False, or On/Off). 	1 bit.

@@ -1,0 +1,8 @@
+Que es una base de datos
+Objetos de microsoft access
+Crear y grau=rdar una BBDD en access
+tablas y opoeracijnes cion tablas 
+Relaciones netre tablas
+Consultas formularios y reportes
+
+Modulo 7
