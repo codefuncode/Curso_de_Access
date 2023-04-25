@@ -1,0 +1,22 @@
+
+Tipos de consultas en Access
+
+	Consultas de selección: No modifican la información de las tablas.
+
+		Normales:
+		Referencias cruzadas:
+		Duplicados: 
+		De no coincidentes:
+
+	Consultas de acción: Modifican la información de las tablas 
+
+		Actualización:
+		Eliminación:
+		Creación de tablas:
+		Datos anexados:
+
+	Consultas específicas de SQL: Solo son posibles programando en SQL
+
+		Unión: 
+		Paso a través: 
+		Definición de datos: 

@@ -1,8 +1,12 @@
 Que es una base de datos
 Objetos de microsoft access
-Crear y grau=rdar una BBDD en access
+Crear y grauardar una BBDD en access
 tablas y opoeracijnes cion tablas 
 Relaciones netre tablas
 Consultas formularios y reportes
 
-Modulo 7
+Objeto AccessObject (Access)
+
+https://docs.microsoft.com/es-es/office/vba/api/access.accessobject#remarks
+
+https://support.microsoft.com/es-es/office/introducci%C3%B3n-a-la-programaci%C3%B3n-de-access-92eb616b-3204-4121-9277-70649e33be4f

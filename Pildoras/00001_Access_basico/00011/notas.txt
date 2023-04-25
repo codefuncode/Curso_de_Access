@@ -1,0 +1,7 @@
+
+
+{comodín}
+https://support.microsoft.com/es-es/office/usar-caracteres-comod%C3%ADn-en-consultas-y-par%C3%A1metros-de-access-ec057a45-78b1-4d16-8c20-242cde582e0b
+
+{operadores}
+https://support.microsoft.com/pt-br/office/tabela-de-operadores-e1bc04d5-8b76-429f-a252-e9223117d6bd

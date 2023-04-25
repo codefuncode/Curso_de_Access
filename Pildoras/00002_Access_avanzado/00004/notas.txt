@@ -1,0 +1,27 @@
+
+Tipos de datos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://bytes.com/topic/access/insights/601315-vba-data-types
+
+https://vbaplanet.com/datatypes.php
+
+https://docs.microsoft.com/en-us/office/vba/access/concepts/miscellaneous/datatype-property#setting
